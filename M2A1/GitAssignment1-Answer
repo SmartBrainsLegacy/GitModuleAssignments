@@ -1,0 +1,18 @@
+#Module 2 Assignment 1 
+#All Steps Below:
+
+mkdir M2A1
+cd M2A1
+touch Code.txt Log.txt Output.txt
+ls
+git add Code.txt Output.txt
+ls
+git status
+git commit -m "Adding Code.txt and Output.txt"
+git status
+git log
+git branch
+git push orgin Assignment1
+git push origin Assignment1
+ls
+history
